@@ -6,6 +6,5 @@
     "memory": "8gb",
     "storage": "32gb"
   },
-  "postCreateCommand": "bash .devcontainer/setup.sh",
-  "remoteUser": "vscode"
+  "postCreateCommand": "bash .devcontainer/setup.sh"
 }
